@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/CaioSamlage">
-<img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" alt="Caio Samuel: Codificando e Sonhando Alto!" width="180" style="border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%; border: 4px solid #8B008B; box-shadow: 0 0 15px rgba(139, 0, 139, 0.7);">
+<h4 align="center">Codificando e Sonhando Alto!</h4>
 </a>
 </p>
 
@@ -46,8 +46,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CaioSamlage&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=25&title_color=8B008B&icon_color=8B008B&text_color=E0E0E0&border_color=8B008B" alt="Caio Samuel GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioSamlage&theme=dark&border_color=8B008B&stroke=8B008B" alt="Caio Samuel GitHub Streak">
-</p>
+  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CaioSamlage&style=for-the-badge&color=8B008B&label=Visitas%20&message=%F0%9F%A4%94" alt="Profile Views">
