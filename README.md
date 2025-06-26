@@ -1,7 +1,7 @@
 ## I'am Caio Samuel
 
 - Atualmente estudando Ciência da Computação 🧑‍💻
-- ⚡ Meus Hobbies: Dançar, cheer e vôlei.
+- ⚡ Meus Hobbies: Tudo que me alegra.
 
 
 <div style="display: inline_block"><br>
