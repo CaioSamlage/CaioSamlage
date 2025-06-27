@@ -42,7 +42,7 @@
 
 ---
 
-<h2 align="center">Minhas Aventuras no GitHub (com um toque de caos controlado) 📊</h2>
+<h2 align="center">Minhas Aventuras no GitHub📊</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CaioSamlage&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=25&title_color=8B008B&icon_color=8B008B&text_color=E0E0E0&border_color=8B008B" alt="Caio Samuel GitHub Stats">
