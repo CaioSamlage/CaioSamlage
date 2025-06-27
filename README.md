@@ -9,7 +9,7 @@
 <p align="center">
   🚀 Programando um futuro incrível (tentando pelo menos). <br>
   📚 Atualmente estudando Ciência da Computação e desvendando os mistérios da vida!). <br>
-  🎨 Meus Hobbies: Tudo que me faz sorrir, brilhar e esquecer que o prazo é amanhã! 😆
+  🎨 Meus Hobbies: Tudo que me faz sorrir e esquecer que o prazo é amanhã! 😆
 </p>
 
 ---
